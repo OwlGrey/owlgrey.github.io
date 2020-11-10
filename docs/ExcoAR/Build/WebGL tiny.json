@@ -3,7 +3,7 @@
 "productName": "ExcoAR",
 "productVersion": "2.4.4",
 "dataUrl": "WebGL tiny.data.unityweb",
-"wasmCodeUrl": "WebGL tiny.wasm",
+"wasmCodeUrl": "WebGL tiny.wasm.code.unityweb",
 "wasmFrameworkUrl": "WebGL tiny.wasm.framework.unityweb",
 "graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
